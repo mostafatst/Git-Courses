@@ -1,6 +1,6 @@
 # Git-Courses
 
-##Project Notes
+~~Project Notes~~
 
 
 __Hallo Git__
